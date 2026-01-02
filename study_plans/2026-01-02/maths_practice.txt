@@ -1,0 +1,63 @@
+Maths Practice Plan – 02-01-2026
+================================
+
+Use this during the 13:00–15:00 and 20:15–21:00 slots.
+
+
+Part A – Simplification & Approximation (Pre level)
+---------------------------------------------------
+
+**Target:** 20 questions in ~25 minutes (first block), 10 questions in ~10 minutes (evening block).
+
+1. Take any standard book/app (Bank Pre level) and pick:
+   - 10 pure simplification questions (+, −, ×, ÷, %, fractions)
+   - 10 approximation questions.
+
+2. Time yourself:
+   - 20 Q → 25 minutes max in the afternoon.
+   - 10 Q → 10 minutes max in the evening.
+
+3. After solving:
+   - Count:
+     - Correct: __ / 20
+     - Wrong: __ / 20
+   - For each wrong question, mark the reason:
+     - (C) = careless / calculation mistake
+     - (S) = speed issue (stuck too long)
+     - (F) = formula/concept not clear
+
+
+Part B – Vedic / Speed Maths from Today&apos;s LIVE Class
+------------------------------------------------------
+
+1. From today&apos;s live:
+   - Write names of 2–3 key tricks (for example):
+     - Fast multiplication pattern
+     - Special division technique
+     - Squaring shortcut etc.
+
+2. For each trick, create or pick at least 5 questions.
+   Example pattern:
+   - If trick is for (a + b)² → make numbers like:
+     - 48², 52², 99², 101², 112² etc.
+   - If trick is for numbers near base (like 100, 1000), make similar ones.
+
+3. Solve all such questions **without calculator** and check answers.
+   - If any trick is not comfortable:
+     - Mark it as: &quot;REV&quot; (need revision).
+     - Next day, repeat same pattern again.
+
+
+Part C – Quick Revision Set (Evening 20:15–21:00)
+-------------------------------------------------
+
+1. 10 simplification questions (new set) – 10 minutes.
+2. 5 questions using today&apos;s Vedic tricks – 10 minutes.
+3. 5–10 questions from any previous weak topic:
+   - Percentages / Ratio / Number system (as per your comfort).
+
+At the end of the day, note for Genie:
+- Total Q attempted in Maths today: ___
+- Overall accuracy (rough %): ___
+- Strong today: (topic/trick)
+- Weak today: (topic/trick to revise tomorrow)
