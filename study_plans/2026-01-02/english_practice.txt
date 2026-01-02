@@ -10,73 +10,109 @@ Use this during:
 Part A – RC using Today&apos;s Skimming Technique
 ----------------------------------------------
 
-1. Pick 1 RC passage (Bank Pre/Mains level as per comfort).
-2. Steps:
-   - Read title + first paragraph carefully.
-   - Quickly skim the rest (don&apos;t stop on every word).
-   - Try to understand:
-     - Main idea (in one simple sentence)
-     - Author&apos;s tone (positive/negative/neutral/mixed)
+Passage (for practice):
+-----------------------
 
-3. Then solve all questions:
-   - First attempt them **without re-reading whole passage**.
-   - Only if confused, go back to specific lines.
+Read this short passage with skimming method:
 
-4. After finishing:
-   - Count:
-     - Total questions: __
-     - Correct: __
-     - Wrong: __
-   - For each wrong question, note:
-     - (I) = idea गलत समझा
-     - (L) = line या detail miss हो गई
-     - (O) = option trap में फँसे
+&quot;Over the last few decades, technology has changed the way people communicate. Earlier, letters and landline phones were the primary means of communication. Today, mobile phones and the internet allow people to exchange messages instantly, no matter where they are. This has many advantages, such as saving time and connecting people across the world. However, it has also created problems. Many people spend too much time on social media, which reduces face‑to‑face interaction and affects mental health. Therefore, it is important to use technology wisely and maintain a balance between online and offline life.&quot;
+
+Questions:
+1. What is the main idea of the passage?  
+   (a) Letters are better than mobile phones  
+   (b) Technology has changed communication and needs balanced use  
+   (c) Social media should be banned  
+   (d) Internet is harmful for everyone  
+
+2. Which of the following was a primary means of communication in earlier times?  
+   (a) Mobile phones  
+   (b) Social media  
+   (c) Letters  
+   (d) Video calls  
+
+3. According to the passage, what is one problem of too much social media use?  
+   (a) Increase in travelling cost  
+   (b) Less face‑to‑face interaction  
+   (c) People stop using the internet  
+   (d) More letter writing  
+
+4. The author&apos;s tone in the passage is:  
+   (a) Completely negative towards technology  
+   (b) Completely positive towards technology  
+   (c) Balanced – both advantages and disadvantages  
+   (d) Confused  
+
+After solving:
+- Total: 4
+- Correct: __
+- Wrong: __
+- Mark reason for wrong:
+  - (I) = idea गलत समझा
+  - (L) = line/detail miss
+  - (O) = option trap
 
 
-Part B – Tenses / Grammar from Recorded Lectures
-------------------------------------------------
+Part B – Tenses / Grammar Practice
+----------------------------------
 
-1. Watch &quot;Tenses – Part 1&quot; (or continue from where you stopped).
-2. For each tense covered, write in notebook:
-   - Name of tense
-   - Use (1 line)
-   - 1 correct example
-   - 1 common error pattern
+Use this along with &quot;Tenses – Part 1&quot; recorded lecture.
 
-Example format:
-- Present Simple:
-  - Use: daily routine, facts
-  - Example: &quot;He goes to school every day.&quot;
-  - Error: &quot;He go to school every day.&quot;
+Error Detection – Set 1
+-----------------------
 
-3. After watching:
-   - Solve 15–20 Error Detection questions focusing on:
-     - Tense
-     - Subject–Verb Agreement (SVA)
+Find the error part (or mark &quot;No error&quot;):
 
-   While checking:
-   - Correct: __ / 20
-   - Wrong: __ / 20
-   - Mark error type:
-     - (T) = wrong tense
-     - (S) = SVA mismatch
-     - (P) = preposition/article/other
+1. He **go** to the market every Sunday.  
+2. She **has finish** her homework already.  
+3. They **was playing** in the park when it started to rain.  
+4. I **did not went** to the party yesterday.  
+5. The teacher **is explaining** the chapter since morning.  
+
+Correct forms (self‑check):
+1. He **goes** to the market every Sunday.  
+2. She **has finished** her homework already.  
+3. They **were playing** in the park when it started to rain.  
+4. I did not **go** to the party yesterday.  
+5. The teacher **has been explaining** the chapter since morning.
+
+Error Detection – Set 2
+-----------------------
+
+6. She **do not likes** cold weather.  
+7. My friend **have bought** a new car.  
+8. We **are living** here from five years.  
+9. The train **arrived** before we **reach** the station.  
+10. He **is know** for his honesty.
+
+Correct forms:
+6. She **does not like** cold weather.  
+7. My friend **has bought** a new car.  
+8. We **have been living** here for five years.  
+9. The train **had arrived** before we **reached** the station.  
+10. He **is known** for his honesty.
 
 
 Part C – Light English Revision (Evening)
 -----------------------------------------
 
-1. 5–10 one-line questions:
-   - Either Error Detection
-   - Or &quot;Fill in the blank&quot; based on tense/verb.
+Fill in the blanks (Tense / Verb):
+1. She ______ (go) to the gym every morning.  
+2. I ______ (finish) my work just now.  
+3. They ______ (play) cricket when I called them.  
+4. We ______ (live) in Delhi since 2018.  
+5. He ______ (not / attend) the meeting yesterday.
 
-2. 5 vocabulary words:
-   - From today&apos;s RC or any list.
-   - For each word:
-     - Meaning in simple Hindi
-     - One sentence
+Sample answers:
+1. goes  
+2. have finished  
+3. were playing  
+4. have been living  
+5. did not attend
 
-3. At the end of day, note for Genie:
-   - RC accuracy today: __ / __
-   - Which tenses are clear, which are still confusing?
-   - Any specific type of error you are repeatedly making?
+Vocab (revise or add your own 5 words):
+- abundant, scarce, essential, consequence, nevertheless.
+
+At the end of day, note for Genie:
+- RC accuracy today: __ / __
+- Tense/SVA errors where you struggled most.
+- Any specific pattern you want more practice for tomorrow.
