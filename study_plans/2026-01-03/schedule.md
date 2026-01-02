@@ -1,12 +1,12 @@
 Date: 03-01-2026 (Bank Focus Day)
 =================================
 
-(Assuming same pattern of live classes as previous days)
+(Adjusted as per actual timetable)
 
-Live Classes (assumed):
-- 07:30–09:00  : Quant – Vedic Maths / Simplification (LIVE)
-- 11:00–12:30 : English – Reading / Skimming / RC (LIVE)
-- 09:30–10:30 or 09:30–10:00 : Reasoning live नहीं माना, अभी self‑study
+Live Sessions:
+- 07:30–09:00  : Quant – **Ask Without Fear #1** (doubt/Q&A session)
+- No English LIVE on 3 Jan (next Skimming 02 on 5 Jan)
+- No Reasoning LIVE on 3 Jan (first session 5 Jan – Coding Decoding)
 
 
 Overall Goals
@@ -20,97 +20,103 @@ Overall Goals
 Slot 1 – Morning Quant (07:05–09:30)
 ------------------------------------
 
-**07:05–07:30 – Pre‑Maths Warm‑up**
+**07:05–07:30 – Pre‑Maths Warm‑up (Speed + Basics Revision)**
 
 Files:
-- `topic_warmups/math/warmup_simplification.md`
-- `study_plans/2026-01-02/pre_maths_live_warmup.md` (optional, tables/squares)
+- `study_plans/2026-01-02/pre_maths_live_warmup.md` (tables + squares + quick sums)
+- `topic_warmups/math/warmup_simplification.md` (Block–1 only)
 
 Tasks:
-- From `warmup_simplification`:
-  - Block–1 Q1–Q10 (BODMAS + % / fractions)
-  - Block–2 Q11–Q15 (fractions/decimals)
-- Time: 20–25 minutes
-- Try to solve बिना calculator, end में answers check करना.
+- Tables 12–20 + squares 1–20 एक बार revise.
+- Warmup Simplification:
+  - Block–1 Q1–Q10 (BODMAS + %, fractions).
+- Focus on:
+  - गलती जहाँ हुई थी (जैसे 931+487 type careless error) वहाँ extra ध्यान।
 
-**07:30–09:00 – Quant LIVE**
+**07:30–09:00 – Ask Without Fear #1 (LIVE Session)**
 
-- Attend full class.
-- Focus:
-  - कौन‑से प्रकार के simplification/speed tricks बताए जा रहे हैं।
-  - हर new method पर छोटा नाम/keyword लिखो (जैसे “divide chain reverse”, “mixed brackets trick” वगैरह).
+- यह main teaching class नहीं, doubt/Q&A session है।
+- Use it for:
+  - जो भी simplification / Vedic / addition में doubt है, उसे पूछने के लिए points ready रखना।
+- During session:
+  - जो भी अच्छे short‑cuts या explanations मिलें, उन्हें बाद में notes में add करने के लिए bullets में लिखो।
 
-**09:00–09:30 – Post‑LIVE Maths Practice**
+**09:00–09:30 – Targeted Maths Revision (Your Weak Areas)**
 
 Files:
-- `study_plans/2026-01-02/math_live_notes.md` (revise methods)
 - `study_plans/2026-01-02/math_live_extra_practice.md`
+- `topic_notes/math/notes_simplification_basics.md`
 
 Tasks:
-- Notes से आज के जैसे examples quickly देखो (addition/subtraction logic).
-- Extra practice:
-  - Sets 1 &amp; 2 से कम से कम 10–15 questions करो.
-- Write:
+- Extra Practice file से:
+  - Set–1 (2‑digit addition) → 5 questions.
+  - Set–2 (3‑digit) → 5 questions.
+  - Set–6 (Subtraction) → 5 questions.
+- हर सवाल के बाद mentally estimate करो कि answer लगभग किस range में होना चाहिए, फिर exact निकालो – इससे careless mistakes कम होंगी।
+- आख़िर में:
   - Attempted: __
   - Correct: __
   - Wrong: __
-  - किस type में ज़्यादा गलती हुई? (2‑digit, 3‑digit, decimals, subtraction)
+  - Most mistakes in: (2‑digit / 3‑digit / subtraction / decimals).
 
 
-Slot 2 – English + Quant (11:00–17:00)
---------------------------------------
+Slot 2 – English + Quant Revision (11:00–17:00)
+-----------------------------------------------
 
-**10:30–11:00 – Pre‑English Warm‑up**
-
-File:
-- `study_plans/2026-01-02/pre_english_live_warmup.md`
-
-Tasks:
-- 1 छोटा passage read + main idea + tone.
-- Grammar quick check वाले 5 sentences (He go…, She have…, etc.).
-- Revise 5 vocab words.
-
-**11:00–12:30 – English LIVE**
-
-- Topic: Skimming / RC / Reading strategy (as per course).
-- Note:
-  - New RC techniques.
-  - किसी भी नए question type पर example.
-
-**12:30–13:00 – RC Practice Using Today’s Technique**
-
-File:
-- `study_plans/2026-01-02/english_practice.md` (RC passage + 4 questions)
-
-Tasks:
-- Passage को skimming से पढ़ो (6–7 minutes).
-- 4 questions solve करो.
-- Accuracy लिखो: __ / 4
-- Wrong वाले पर reason tag करो: (I/L/O).
-
-**13:00–15:00 – Quant: Simplification &amp; Approx**
-
-File:
-- `study_plans/2026-01-02/maths_practice.md` (Sets 1 &amp; 2)
-
-Tasks:
-- Set–1 (Q1–Q20) → 25 min target.
-- Check answers, mark गलत सवालों के कारण (C/S/F).
-- बाकी time में:
-  - `topic_notes/math/notes_simplification_basics.md` से sir की method एक बार पढ़ना.
-
-**15:00–17:00 – English Recorded + Grammar**
+**11:00–12:00 – English RC + Skimming Revision (Weak Area)**
 
 Files:
-- Recorded video: **Tenses – Part 1** (या Part 2 अगर Part 1 finish हो चुका).
-- `study_plans/2026-01-02/english_practice.md` (Error sets).
+- `study_plans/2026-01-02/pre_english_live_warmup.md`
+- `study_plans/2026-01-02/english_practice.md`
 
 Tasks:
-- Video देखते समय:
-  - हर tense के लिए use + example + common error लिखो.
-- Error Detection:
-  - Set‑1 + Set‑2 (कुल 10–20 प्रश्न)
-  - Correct/Wrong count, error type (T/S/P) mark करना.
+- Warm‑up file से:
+  - 1 छोटा passage → main idea + tone + 2–3 questions.
+- RC practice file से:
+  - दिए हुए passage को skimming से पढ़ो (6–7 min).
+  - 4 questions solve करो.
+- लक्ष्य:
+  - Accuracy ≥ 3/4 (75%).
+- गलत Q के लिए clearly लिखो:
+  - Idea गलत (I) / Line miss (L) / Option trap (O).
+
+**12:00–13:00 – Grammar Basics (Tense + SVA)**
+
+Files:
+- Recorded: *Tenses – Part 1* (या जहाँ रुके थे वहाँ से आगे)
+- `study_plans/2026-01-02/english_practice.md` (Error sets)
+
+Tasks:
+- Video से:
+  - सिर्फ Present + Past basic forms पर focus (simple/continuous/perfect).
+- Error sets:
+  - Set‑1 + Set‑2 (कुल 10 sentences)
+  - Mark हर प्रश्न का error type: (T = Tense, S = SVA, P = Preposition/other).
+
+**13:00–15:00 – Quant: Simplification Deep Practice (Weak Area)**
+
+Files:
+- `study_plans/2026-01-02/maths_practice.md`
+- `topic_notes/math/notes_simplification_basics.md`
+
+Tasks:
+- Maths practice Set–1 (Q1–Q20) पूरा करो (25–30 min).
+- Notes file से:
+  - Sir के BODMAS/inverse‑operation वाले method को एक बार आराम से पढ़ो.
+- जिन प्रश्नों में गलती हो:
+  - लिखो कि कहाँ गड़बड़ हुई:  
+    - bracket, sign, divide/multiply, या calculation speed.
+
+**15:00–17:00 – Mixed Revision (Light but Focused)**
+
+- 15:00–15:30 →  
+  - 10 नए simplification questions किसी भी book/app से (pre level).
+- 15:30–16:00 →  
+  - 1 नया RC passage (self source), सिर्फ main idea + 3–4 questions.
+- 16:00–17:00 →  
+  - ध्यान से revision:
+    - आज वाले error detection में जो tense/SVA points बार‑बार गलत हुए,
+    - Maths में जहाँ ज़्यादा गलतियाँ हुईं (उन्हीं type के 5 extra examples खुद बनाकर solve करो).
 
 
 Slot 3 – Evening Reasoning + Mixed Revision (19:00–21:30)
