@@ -315,7 +315,49 @@ Categories (exam mein नाम):
 
 ---
 
-## 10. How to Study from This File
+## 10. Important Abbreviations (Quick List)
+
+Ye list exam me बार‑बार दिखने वाले short forms ka hai.  
+Details ऊपर sections me explain kiye गए हैं – यहाँ बस **one‑line recall** ke liye:
+
+- **RBI** – Reserve Bank of India  
+- **PSB** – Public Sector Bank  
+- **RRB** – Regional Rural Bank  
+- **FD** – Fixed Deposit  
+- **RD** – Recurring Deposit  
+- **CC** – Cash Credit  
+- **OD** – Overdraft  
+- **NDTL** – Net Demand and Time Liabilities  
+- **CRR** – Cash Reserve Ratio  
+- **SLR** – Statutory Liquidity Ratio  
+- **PSL** – Priority Sector Lending  
+- **ANBC** – Adjusted Net Bank Credit  
+- **Repo** – Repurchase Rate (RBI se short‑term borrowing ka rate)  
+- **Rev Repo** – Reverse Repo Rate (RBI me short‑term parking ka rate)  
+- **MSF** – Marginal Standing Facility (overnight emergency borrowing)  
+- **RTGS** – Real Time Gross Settlement  
+- **NEFT** – National Electronic Funds Transfer  
+- **IMPS** – Immediate Payment Service  
+- **UPI** – Unified Payments Interface  
+- **NPCI** – National Payments Corporation of India  
+- **KYC** – Know Your Customer  
+- **AML** – Anti Money Laundering  
+- **BC** – Business Correspondent  
+- **NPA** – Non‑Performing Asset  
+- **CRAR / CAR** – Capital to Risk‑weighted Assets Ratio  
+- **CCB** – Capital Conservation Buffer  
+- **SFB** – Small Finance Bank  
+- **NABARD** – National Bank for Agriculture and Rural Development  
+- **SIDBI** – Small Industries Development Bank of India  
+- **NHB** – National Housing Bank  
+- **EXIM Bank** – Export‑Import Bank of India  
+- **FEMA** – Foreign Exchange Management Act  
+
+Agar kisi naye PDF / lecture me koi naya short form aaye, use bhi इसी section me add kar सकते हो – धीरे‑धीरे ye complete list बन जाएगी.
+
+---
+
+## 11. How to Study from This File
 
 1. Daily 10–15 minutes:
    - 1–2 sections पढ़ो (e.g. today Types of Banks + CRR/SLR).
