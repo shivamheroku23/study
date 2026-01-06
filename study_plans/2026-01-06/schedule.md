@@ -58,7 +58,48 @@ Tasks:
 
 ---
 
-## Slot 2 – English (11:00–13:00)
+## Slot 2 – From Now (12:41) till 15:00 – English + Maths
+
+> Note: Slot 1 (7–9:30) miss ho chuka hai, isliye ab schedule **12:41 se start** माना गया है.
+
+### 12:45–13:15 – English Warm‑up + Skimming Recap
+
+File:
+- `study_plans/2026-01-02/pre_english_live_warmup.md`
+
+Tasks:
+- 1 छोटा passage:
+  - Main idea (1 line)
+  - Author ka tone (positive / negative / neutral / mixed)
+- Grammar quick check wale 5 sentences (He go…, She have…)
+- 5 vocab words revise.
+
+### 13:15–14:00 – Introductory Session (Skimming) PDF – Fast Pass
+
+File:
+- `live class daily notes/Introductory Session.pdf`
+
+Tasks:
+- PPT se सिर्फ key points निकालो:
+  - RC ka approach – पहले kya पढ़ना, क्या underline, क्या skip.
+- 5–7 bullet points banao:
+  - “Skimming Rules – 1,2,3…”
+
+### 14:00–15:00 – RC Practice (Apply Skimming Rules)
+
+File:
+- `study_plans/2026-01-02/english_practice.md`
+
+Tasks:
+1. Given passage:
+   - 6–7 min me Skimming rules se पढ़ो.
+   - 4 questions solve karo.
+2. Result:
+   - Accuracy: __ / 4
+   - Har wrong Q: tag as (I) idea गलती / (L) line miss / (O) option trap.
+
+
+## Slot 3 – Reasoning (15:00–17:00)
 
 ### 11:00–11:20 – English Warm‑up
 
@@ -102,9 +143,9 @@ Tasks:
 
 ---
 
-## Slot 3 – Reasoning (13:00–15:00)
+## Slot 3 – Reasoning (15:00–17:00)
 
-### 13:00–13:20 – Pre‑Reasoning Warm‑up
+### 15:00–15:20 – Pre‑Reasoning Warm‑up
 
 File:
 - `study_plans/2026-01-02/pre_reasoning_warmup.md`
@@ -114,7 +155,7 @@ Tasks:
 - Blood Relation ke 4 mini Q  
 - Inequality chain wala chhota set
 
-### 13:20–14:00 – Coding–Decoding Basics (Backlog from 5 Jan)
+### 15:20–16:00 – Coding–Decoding Basics (Backlog from 5 Jan)
 
 Source:
 - Apni book/app + rough copy
@@ -127,7 +168,7 @@ Tasks:
   - sum of positions  
   - reverse, alternate etc.
 
-### 14:00–15:00 – Puzzle + Inequality
+### 16:00–17:00 – Puzzle + Inequality
 
 File:
 - `study_plans/2026-01-02/reasoning_practice.md`
