@@ -5,7 +5,7 @@ _Free time_:
 - Baaki time: study ke liye available.
 
 Today&apos;s Maths Live (as per timetable):
-- **Simplification &amp; Approximation – 2** at **07:30 am**
+- **No Mathscation &amp; Approximation – 2** at **07:30 am**
 
 Goals:
 - Live class se pehle basic simplification ko warm‑up karna.  
@@ -16,7 +16,9 @@ Goals:
 
 ---
 
-## Slot 1 – Morning Maths (07:00–09:30)
+## Slot 1 – Morning Maths (07:00–09:30) – Simplification Base (No LIVE)
+
+Aaj Maths ka koi LIVE nahi hai, isliye subah ka time **Simplification ke base ko majboot** karne ke लिए use karenge, taaki 08‑01‑2026 ke Simplification‑2 LIVE me tum already ready ho.
 
 ### 07:00–07:20 – Pre‑Math Warm‑up (Speed + BODMAS)
 
@@ -29,32 +31,32 @@ Tasks:
 2. `warmup_simplification` Block–1 Q1–Q10 (BODMAS + %, fractions).  
 3. Focus: calculation साफ़, koi careless mistake nahi.
 
-### 07:30–09:00 – LIVE: Simplification & Approximation – 2
+### 07:20–08:15 – Simplification Practice Set‑1 (Foundation)
 
-- Sir ki class full focus se dekho.  
-- Notes:
-  - Kaun‑kaun se type ke questions aaye:
-    - Basic BODMAS?  
-    - % based?  
-    - Fraction / decimals?  
-    - Mixed eq. with &quot;?&quot;?  
-  - Har new method ke liye:
-    - 1 line rule  
-    - 1 example (sir ka hi question)
-
-(After class, jitna possible ho utna short notes &quot;live class daily notes&quot; folder me store karna, ya Yahi file me summary likhna.)
-
-### 09:00–09:30 – Post‑LIVE Quick Practice
-
-Files:
+File:
 - `study_plans/2026-01-02/maths_practice.md`
-- `topic_notes/math/notes_simplification_basics.md`
 
 Tasks:
-1. `maths_practice` Set–1 se Q1–Q10 (10 questions).  
-2. Har question me sir ka method apply karne ki koshish karo.  
-3. Wrong Q: mark C (careless) / S (slow) / F (concept).  
-4. Notes file se BODMAS/inverse operation wale points ko ek baar glance karo.
+1. Set–1 (Q1–Q20) → 25–30 min ka timer laga kar solve karo.  
+2. Check answers:
+   - Correct: __ / 20  
+   - Wrong: __ / 20  
+3. Har galat Q ke साथ note:
+   - (C) careless  
+   - (S) slow  
+   - (F) formula/BODMAS confusion  
+
+### 08:15–09:30 – Concept Revision + Vedic Link
+
+Files:
+- `topic_notes/math/notes_simplification_basics.md`
+- Vedic notes (agar tumne Vedic‑1/2 ke लिए banaye hain)
+
+Tasks:
+1. Notes se important patterns पढ़ो:
+   - BODMAS, inverse operations, chain divide, brackets.  
+2. Har pattern par 2–3 chhote examples khud बनाकर solve karo.  
+3. Jis method me doubt ho, uske आगे "REV" लिख दो (08‑01 ke warm‑up me dobara revise karenge).
 
 ---
 
